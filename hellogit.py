@@ -1,4 +1,4 @@
-print( "hola este es mi nuevo programa de hoy con cambios ")
+print( "hola este es mi nuevo programa de hoy con cambios hechos en github ")
 
 ninos = 5
 ninas = 10
