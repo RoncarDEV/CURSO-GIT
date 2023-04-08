@@ -5,7 +5,7 @@ ninas = 10
 
 print(ninas +  ninos)
 print(ninas -  ninos)
-print(ninas *  ninos)
+print(ninas **  ninos)
 print(ninas **  ninos)
 print(ninas +  ninos)
 
