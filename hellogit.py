@@ -19,4 +19,4 @@ print(ninas +  ninos)
 
 #me gusta lo que estoy aprendiendo el dia de hoy 
 
-#seguimos en la lucha por ser un programador
+#seguimos en la lucha por ser un programador, me gusta esto
