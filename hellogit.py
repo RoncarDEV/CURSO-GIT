@@ -17,7 +17,7 @@ print(ninas +  ninos)
 
 #hola como estas esta es la parte creada en la rama cabecera es para poder validar cuando se junten los archivos
 
-#me gusta lo que estoy aprendiendo el dia de hoy 
+#me gusta lo que estoy aprendiendo 
 
 #seguimos en la lucha por ser un programador
 #seguimos en la lucha por ser un programador, me gusta esto
